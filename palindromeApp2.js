@@ -1,4 +1,4 @@
-let inputData = "Masam";
+let inputData = 121;
 
 const advancedPalindrome = () => {
     const numberCheck = (inputData) => {
